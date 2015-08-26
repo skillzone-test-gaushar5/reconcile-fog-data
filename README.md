@@ -1,0 +1,1 @@
+Design a model to address the parameters to determine data management locally or in the cloud.
